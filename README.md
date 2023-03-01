@@ -1,6 +1,7 @@
 # tanstack-msw-query-poc
 
-Important reading
+## Important reading
+
 [Practical React Query](https://tkdodo.eu/blog/practical-react-query)
 
 [Testing React Query](https://tkdodo.eu/blog/testing-react-query)
