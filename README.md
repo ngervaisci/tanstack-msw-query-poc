@@ -2,8 +2,11 @@
 
 Important reading
 [Practical React Query](https://tkdodo.eu/blog/practical-react-query)
+
 [Testing React Query](https://tkdodo.eu/blog/testing-react-query)
+
 [MSW Docs](https://mswjs.io/docs/)
+
 [React Query Quickstart](https://tanstack.com/query/v4/docs/react/quick-start)
 
 Fairly quick and contrived example of msw and react-query
@@ -18,5 +21,6 @@ The tests for components use that mocked service worker to set the API responses
 # Todo
 
 Do some basic hook examples using createWrapper
+
 Set up dev mode service handler
 
